@@ -1,2 +1,2 @@
 # fischer
-A simple chess engine writeen in C++
+A simple chess engine written in C++
